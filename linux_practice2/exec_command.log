@@ -1,0 +1,11 @@
+    1  ls
+    2  cd /root
+    3  ls
+    4  cd server_lesson
+    5  cd linux_practice2
+    6  ls
+    7  cat exec_command.log 
+    8  history
+    9  rm exec_command.log 
+   10  history 300 >
+   11  history 300 > exec_command.log
